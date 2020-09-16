@@ -1,0 +1,1 @@
+docker run --rm -e SONAR_HOST_URL="http://localhost:9000" -v "<project_path>:/usr/src" --network=host sonarsource/sonar-scanner-cli
