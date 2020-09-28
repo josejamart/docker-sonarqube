@@ -12,3 +12,5 @@ Edit run-sonar.sh change `<project_path>` with the complete path to the proyect 
 
 `sh run-sonar.sh`
 
+
+
